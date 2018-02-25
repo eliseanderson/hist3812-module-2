@@ -1,52 +1,92 @@
-So, I'm writing this on a very bumpy 5am bus ride in the desert somewhere between Hurghada and Cairo so apologies for any readability issues. I left the Friday evening before  Reading Week and wont get back until Monday at like 3am so I'm forced to do this enroute on my phone. I was hoping to finish the weeks previously, but I had 6 assignments and 2 midterms due so I barely managed to get sleep let alone extra work done. The result of this is I got basically all the work done on Thurs Feb 16 - Friday Feb 16 so I'll be largely forgoing dates for each step.
+So, I'm writing this on a very bumpy 5am bus ride in the desert somewhere between Hurghada and Cairo so apologies for any
+readability issues. I left the Friday evening before  Reading Week and wont get back until Monday at like 3am so I'm forced
+to do this enroute on my phone. I was hoping to finish the weeks previously, but I had 6 assignments and 2 midterms due so I
+barely managed to get sleep let alone extra work done. The result of this is I got basically all the work done on Thurs Feb 
+16 - Friday Feb 16 so I'll be largely forgoing dates for each step.
 
-Since I didn't want to drag my laptop accross Egypt, I focused this time on perfecting my model, uploaded all my notes and files on the project to Google drive, downloaded them all to my phone so I could write them when I was without service (such as now), write them up on Evernote, then copy and paste into Github
+Since I didn't want to drag my laptop accross Egypt, I focused this time on perfecting my model, uploaded all my notes and 
+files on the project to Google drive, downloaded them all to my phone so I could write them when I was without service (such
+as now), write them up on Evernote, then copy and paste into Github
 
 In summary, the process of doing this project has basically been remixed into a convuluted mess due to the circumstances.
 
 Lets begin shall we?
 
-Despite being very busy, I had  started thinking about how to remix my project in the weeks before Reading Week. I wanted to be careful to make sure it added meaning to my original model. Since I didn't think turning it into sound or anything would make sense for my project, I narrowed it down to focusing on making a new remixed model.
+Despite being very busy, I had  started thinking about how to remix my project in the weeks before Reading Week. I wanted to
+be careful to make sure it added meaning to my original model. Since I didn't think turning it into sound or anything would
+make sense for my project, I narrowed it down to focusing on making a new remixed model.
 
-Thursday (Feb 16) morning I talked with Prof Graham to try and figure out what direction to take for my model specifically.  From this, I turned my focus to the different histories the object tells. My Raggedy Ann is a mass produced Raggedy Ann, which is a toy derived from a book, and of course is a toy in general. This module in class we got to try analyzing data and this was a similar way of thinking. By reflecting on the heirarchy of things my object is, I can compare it to others that are similar (such as other Raggedy Ann dolls or other toys in general) and remix its meaning in that way.
+Thursday (Feb 16) morning I talked with Prof Graham to try and figure out what direction to take for my model specifically.  
+From this, I turned my focus to the different histories the object tells. My Raggedy Ann is a mass produced Raggedy Ann, which
+is a toy derived from a book, and of course is a toy in general. This module in class we got to try analyzing data and this 
+was a similar way of thinking. By reflecting on the heirarchy of things my object is, I can compare it to others that are
+similar (such as other Raggedy Ann dolls or other toys in general) and remix its meaning in that way.
 
 In order to do this, I downloaded the software Meshmixer and immediately imported the Raggedy Ann doll I made in Module 1.
-I started looking on sketchfab for other toy models to remix mine with. Unfortunately there were no other Raggedy Ann or Raggedy Andy models so I broadened my search to toys in general. I quickly discovered that not all models are downloadable, so after adding that filter my choices were narrowed down a bit more.
+I started looking on sketchfab for other toy models to remix mine with. Unfortunately there were no other Raggedy Ann or 
+Raggedy Andy models so I broadened my search to toys in general. I quickly discovered that not all models are downloadable, 
+so after adding that filter my choices were narrowed down a bit more.
 
-I ended up downloading about 10 different ones, focusing on those that were recognizeable or had good descriptions in order to make research easier.
+I ended up downloading about 10 different ones, focusing on those that were recognizeable or had good descriptions in order 
+to make research easier.
 
 One by one used >import >append to add them into my meshmixer project
 * Note: I recommend reducing the quality at this point. I forgot and it caused me problems later as you will see.
-From there I used the transform tool to manipulate the models into a way that would make sense. Namely, around the same size facing each other in order to engage in a conversation.
+From there I used the transform tool to manipulate the models into a way that would make sense. Namely, around the same size 
+facing each other in order to engage in a conversation.
 
 Here is a quick list of the models I ended up testing and why I chose and/or eliminated them from my remix:
 
-Spiderman - an example comic turned toy, however it loaded without texture for some reason. I tried to troubleshoot but to no avail.
+Spiderman - an example comic turned toy, however it loaded without texture for some reason. I tried to troubleshoot but to no
+avail.
 
-Tamagotchi - I thought itd be cool to compare a digital toy but the model's tecture was odd and looked jarring compared to the others
+Tamagotchi - I thought itd be cool to compare a digital toy but the model's tecture was odd and looked jarring compared to the
+others
 
-Tigger- another book turned toy from around the same period, make it easy to compare. unfortunately model was huge and somehow loaded below the grid so all you could see was a slightly terrifying looming monstrous tigger shadow
+Tigger- another book turned toy from around the same period, make it easy to compare. unfortunately model was huge and somehow
+loaded below the grid so all you could see was a slightly terrifying looming monstrous tigger shadow
 
-Totoro- Fulfulled the movie turned toy story, I love hayao miyazaki movies, own the same toy BUT not north american so didnt fit in with original theme, texture very detailed so large file
+Totoro- Fulfulled the movie turned toy story, I love hayao miyazaki movies, own the same toy BUT not north american so didnt 
+fit in with original theme, texture very detailed so large file
 
-Pluto - I chose this as an example of a a cartoon/movie character turned to toy. Plus the history of Disney is very interesting, with several "eras" of movies.
+Pluto - I chose this as an example of a a cartoon/movie character turned to toy. Plus the history of Disney is very 
+interesting, with several "eras" of movies.
 
-My Little Pony - I chose this one because MLP were toys first and then a franchise later. Also mirrors the Raggedy Ann doll in its resurgence in popularity years after its original creation.
+My Little Pony - I chose this one because MLP were toys first and then a franchise later. Also mirrors the Raggedy Ann doll in 
+its resurgence in popularity years after its original creation.
 
-Once I was satisfied with the position and scale of each model (Raggedy Ann, Pluto and MLP), I selected each one to combine them into a single object.
+Once I was satisfied with the position and scale of each model (Raggedy Ann, Pluto and MLP), I selected each one to combine
+them into a single object.
 
-From there I exported it as a .obj file. I got a popup warning it was a non manifold and complex, but apparently this is only a problem if you are trying to 3d print.
+From there I exported it as a .obj file. I got a popup warning it was a non manifold and complex, but apparently this is only 
+a problem if you are trying to 3d print.
 
-Now, the first time I exported as an obj, the pluto mesh did not work. I don't really know why; the other models were fine but Pluto's texture was all in the wrong place.
+Now, the first time I exported as an obj, the pluto mesh did not work. I don't really know why; the other models were fine but 
+Pluto's texture was all in the wrong place.
 
-The second time I exported as an obj again but the file (even compressed) was too big for Sketchfab. I forgot to simplify each image, but since I was pressed on time I decided to try exporting as different formats first.
+The second time I exported as an obj again but the file (even compressed) was too big for Sketchfab. I forgot to simplify each 
+image, but since I was pressed on time I decided to try exporting as different formats first.
 
-This time I exported as an .stl file because sketchfab accepts those as well. The file was a lot smaller, but when I uploaded to Sketchfab I found that none of the textures has loaded, instead being made white like Ancient Roman or Greek statues
+This time I exported as an .stl file because sketchfab accepts those as well. The file was a lot smaller, but when I uploaded 
+to Sketchfab I found that none of the textures has loaded, instead being made white like Ancient Roman or Greek statues
 
-What surprised me is I actually liked this a lot better. If the goal was to make a really detailed model this would be terrible, but to me I liked how it made the toys look like blank canvasses. Toys like Raggedy Ann are mass produced, but each child creates their own meaning, stories and memories associated with the toy so that it becomes unique to them. Even the exact same toy can be ascribed a different meaning by every child who plays with it. So for the remix module I thought this was appropriate, allowing the viewer to further remix the model in their own mind of what color it should be.
+What surprised me is I actually liked this a lot better. If the goal was to make a really detailed model this would be terrible, 
+but to me I liked how it made the toys look like blank canvasses. Toys like Raggedy Ann are mass produced, but each child
+creates their own meaning, stories and memories associated with the toy so that it becomes unique to them. Even the exact same 
+toy can be ascribed a different meaning by every child who plays with it. So for the remix module I thought this was appropriate,
+allowing the viewer to further remix the model in their own mind of what color it should be.
 
-Of course, there was a problem though. When I went to cite the models, I found both of them had a license in which no derivatives could be made for distribution. The next day (Friday) I got confirmation that yes, I wasn't allowed to use them and went back to the drawing board.
+Of course, there was a problem though. When I went to cite the models, I found both of them had a license in which no derivatives 
+could be made for distribution. The next day (Friday) I got confirmation that yes, I wasn't allowed to use them and went back to
+the drawing board.
 
-At that point I had about 3 hours before my computer science midterm, (which I had to study for) after which I was immediately heading to the airport (which I had to finish packing for). So to say I was a bit rushed is an understatement. Fortunately, I knew what I was doing at this point. After quickly making a blank canvas of the raggedy ann doll only (by exporting as .stl), I began checking the other toy models licenses for something I could use. Thankfully, my second choice the Totoro doll was available for use. It actually worked out perfectly, the scraggly plush surface looked really interesting without color but its shape meant it was still recognizeable. I had initially rejected it because it was not cohesive with the other models, but when it was alone with Raggedy Ann that was no longer an issue.
+At that point I had about 3 hours before my computer science midterm, (which I had to study for) after which I was immediately
+heading to the airport (which I had to finish packing for). So to say I was a bit rushed is an understatement. Fortunately, I 
+knew what I was doing at this point. After quickly making a blank canvas of the raggedy ann doll only (by exporting as .stl), I 
+began checking the other toy models licenses for something I could use. Thankfully, my second choice the Totoro doll was available
+for use. It actually worked out perfectly, the scraggly plush surface looked really interesting without color but its shape meant
+it was still recognizeable. I had initially rejected it because it was not cohesive with the other models, but when it was alone
+with Raggedy Ann that was no longer an issue.
 
-So, I managed to upload the .stl file to Sketchfab no problems. The only additional changes I made was using the edit tool to adjust the brightness to make the surfaces more visible.
+So, I managed to upload the .stl file to Sketchfab no problems. The only additional changes I made was using the edit tool to 
+adjust the brightness to make the surfaces more visible.
